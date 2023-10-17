@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image:url("about.jpg");
+    margin: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+.contact-info, .working-hours, .services, .location {
+    margin-bottom: 30px;
+}
+
+.contact-info h2, .working-hours h2, .services h2, .location h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.contact-info p, .working-hours p {
+    margin: 10px 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+#map {
+    height: 300px;
+    width: 100%;
+}

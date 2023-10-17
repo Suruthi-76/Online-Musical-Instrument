@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image:url("about.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.warranty-form {
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.form-group {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+label, input {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+button {
+    background-color: rgb(18,144,221);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color:rgb(18,144,221);
+}

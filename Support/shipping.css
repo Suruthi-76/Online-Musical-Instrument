@@ -1,0 +1,30 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+    body{
+        background-image: url("home.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        box-sizing: border-box;
+        font-family: sans-serif;
+        background-attachment:📜 ;
+    }
+h1{
+    text-align:center;
+}
+.container{
+    margin:20px;
+    padding:20px;
+}
+.container1{
+    margin:20px;
+    padding:20px;
+}
+.container2{
+    background-image: url("shipping.jpg");
+    position: absolute;
+    left:300px;
+    width:600px;
+    height: 170px;
+}

@@ -1,0 +1,23 @@
+*{
+    padding: 20px;
+    margin: 20px;
+}
+body{
+    background-image: url("about.jpg");
+    background-repeat: no-repeat;
+    background-size: 500px 900px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-attachment:📜 ;
+    font-size: larger;
+    font-style:oblique ;
+    position: absolute;
+    left:410px;
+    word-spacing: 5px;
+}
+.footer{
+    background-color: rgb(18,144,221);
+    color:black;
+    text-align:center;
+    font-family: sans-serif;
+}
